@@ -1,0 +1,6 @@
+students = ("John","Doe","Mark","Tyson")
+#print(students)
+#print(len(students))
+#print(students[-1])
+print(students[:3])
+print(students[1:3])

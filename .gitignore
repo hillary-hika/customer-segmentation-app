@@ -1,0 +1,10 @@
+# Ignore Django folder
+Django/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary files
+*.zip
+*.pyc
+__pycache__/
